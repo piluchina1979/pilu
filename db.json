@@ -1,4 +1,5 @@
 {
+  "catu":{
     "news": [
         {
             "class": "news-component",
@@ -91,4 +92,5 @@
             "ctaLink": "#"
         }
     ]
+}
 }
