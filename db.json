@@ -93,8 +93,7 @@
     ],
     "news2":[
         {
-            "class": "news-component",
-            "image": "assets/imgs/feature-pod/Rectangle.jpg",
+            "class": "news-component",            
             "date": "10/24/19",
             "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
             "copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
