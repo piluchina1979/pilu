@@ -1,5 +1,6 @@
 {
   "catu":{
+    "id":1,
     "news": [
         {
             "class": "news-component",
