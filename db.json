@@ -9,7 +9,7 @@
          "cta":"More",
          "ctaUrl":"#",
          "newsType":"Campus News",
-         "isFeatured":"N"
+         "isFeatured":"Y"
       },
       { 
          "id":"{xxxx-xxxx-xxxx-xxxxx2}",
@@ -20,7 +20,7 @@
          "cta":"More",
          "ctaUrl":"#",
          "newsType":"Campus News",
-         "isFeatured":"N"
+         "isFeatured":"Y"
       },
       { 
          "id":"{xxxx-xxxx-xxxx-xxxxx3}",
@@ -31,7 +31,7 @@
          "cta":"More",
          "ctaUrl":"#",
          "newsType":"Campus News",
-         "isFeatured":"N"
+         "isFeatured":"Y"
       },
       { 
          "id":"{xxxx-xxxx-xxxx-xxxxx4}",
@@ -42,7 +42,7 @@
          "cta":"More",
          "ctaUrl":"#",
          "newsType":"Campus News",
-         "isFeatured":"N"
+         "isFeatured":"Y"
       },
       { 
          "id":"{xxxx-xxxx-xxxx-xxxxx5}",
