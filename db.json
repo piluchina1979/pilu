@@ -1,5 +1,8 @@
 { 
-   "news":[ 
+   "settings":{
+         "maxRecords":200
+      },
+   "results":[ 
       { 
          "id":"{xxxx-xxxx-xxxx-xxxxx}",
          "image":"assets/imgs/feature-pod/3.jpg",
