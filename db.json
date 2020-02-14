@@ -1,118 +1,119 @@
-{ 
-   "settings":{
-         "maxRecords":20
-      },
-   "results":[ 
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"Y"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx2}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"Y"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx3}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"Y"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx4}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"Y"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx5}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"N"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx6}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"N"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx7}",
-         "class":"news-component",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"N"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx8}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"N"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx9}",
-         "image":"assets/imgs/feature-pod/3.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"N"
-      },
-      { 
-         "id":"{xxxx-xxxx-xxxx-xxxxx10}",
-         "image":"assets/imgs/feature-pod/Rectangle2.jpg",
-         "date":"10/24/19",
-         "title":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "copy":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-         "cta":"More",
-         "ctaUrl":"#",
-         "newsType":"Campus News",
-         "isFeatured":"N"
-      }
-   ]
+{
+	"news": [{
+		"settings": {
+			"maxRecords": 20
+		},
+		"results": [{
+				"id": "{xxxx-xxxx-xxxx-xxxxx}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "Y"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx2}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "Y"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx3}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "Y"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx4}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "Y"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx5}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "N"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx6}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "N"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx7}",
+				"class": "news-component",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "N"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx8}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "N"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx9}",
+				"image": "assets/imgs/feature-pod/3.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "N"
+			},
+			{
+				"id": "{xxxx-xxxx-xxxx-xxxxx10}",
+				"image": "assets/imgs/feature-pod/Rectangle2.jpg",
+				"date": "10/24/19",
+				"title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"copy": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiumSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+				"cta": "More",
+				"ctaUrl": "#",
+				"newsType": "Campus News",
+				"isFeatured": "N"
+			}
+		]
+	}]
 }
